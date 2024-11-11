@@ -1,0 +1,15 @@
+.label {
+    -fx-font-size: 14px;
+    -fx-text-fill: white;
+}
+
+.button {
+    -fx-font-size: 16px;
+    -fx-background-color: #3b5998;
+    -fx-text-fill: white;
+}
+
+.grid-pane {
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+}
